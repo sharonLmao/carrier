@@ -6,3 +6,7 @@ Please report any crashes you experience.
 
 Map Coordinates: 580.186646, -3438.095459, 6.077429
 ![image](https://github.com/user-attachments/assets/4ee763b8-2e1a-4eea-9ff0-09d48bf6956c)
+
+Preview:
+https://github.com/user-attachments/assets/9d2898e2-79b3-490b-8bea-846327eb8ad1
+
